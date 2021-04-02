@@ -1,0 +1,7 @@
+body{
+    min-height: 3000px;
+}
+#jumbotron{
+    padding-top: 100px;
+    background-color: darkturquoise;
+}
